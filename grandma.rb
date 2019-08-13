@@ -15,6 +15,7 @@
 def speak_to_grandma(string = 'I LOVE YOU GRANDMA!')
   puts string
   if string == string.upcase
+  else print 
   return "I LOVE YOU TOO PUMPKIN!"
 end  
 
