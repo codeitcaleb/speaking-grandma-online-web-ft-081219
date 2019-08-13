@@ -27,6 +27,10 @@ def speak_to_grandma(string = 'I LOVE YOU GRANDMA!')
    return 'NO, NOT SINCE 1938!'
  end
  
+ if string == 'WHAT?'
+   return 'NO, NOT SINCE 1938!'
+ end
+ 
   if string == string.upcase
     return "I LOVE YOU TOO PUMPKIN!"
   end  
