@@ -16,19 +16,19 @@ def speak_to_grandma(string = 'I LOVE YOU GRANDMA!')
   puts string
   
   if string == 'Hi!'
-    print 'HUH?! SPEAK UP, SONNY'
+    p 'HUH?! SPEAK UP, SONNY'
   end
   
   if string == 'Hi Nana, how are you?'
-    print 'HUH?! SPEAK UP, SONNY'
+    p 'HUH?! SPEAK UP, SONNY'
  end
  
  if string == 'WHAT DID YOU EAT TODAY?'
-   print 'NO, NOT SINCE 1938!'
+   p 'NO, NOT SINCE 1938!'
  end
  
   if string == string.upcase
-   print 'I LOVE YOU TOO PUMPKIN!'
+   p 'I LOVE YOU TOO PUMPKIN!'
   # return "I LOVE YOU TOO PUMPKIN!"
   end
 end  
