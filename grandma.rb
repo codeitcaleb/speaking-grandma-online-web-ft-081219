@@ -21,11 +21,11 @@ def speak_to_grandma(string = 'I LOVE YOU GRANDMA!')
   
   if string == 'Hi Nana, how are you?'
     print'HUH?! SPEAK UP, SONNY'
- end
+ 
  
  if string == 'WHAT DID YOU EAT TODAY?'
-   p 'NO, NOT SINCE 1938!'
- end
+   print 'NO, NOT SINCE 1938!'
+
  
   if string == string.upcase
   return "I LOVE YOU TOO PUMPKIN!"
