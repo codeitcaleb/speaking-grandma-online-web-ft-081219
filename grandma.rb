@@ -16,11 +16,11 @@ def speak_to_grandma(string = 'I LOVE YOU GRANDMA!')
   puts string
   
   if string == 'Hi!'
-    return 'HUH?! SPEAK UP, SONNY'
+    return 'HUH?! SPEAK UP, SONNY!'
   end
   
   if string == 'Hi Nana, how are you?'
-    return'HUH?! SPEAK UP, SONNY'
+    return'HUH?! SPEAK UP, SONNY!'
   end
  
  if string == 'WHAT DID YOU EAT TODAY?'
